@@ -53,7 +53,7 @@
 ## My stat
 
 <div id="stat" align="center">
-    <img src="https:///github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=dark" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api?username=RossohinPavel&theme=dark&show_icons=true&hide_border=true&count_private=true" height=200 alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossohinPavel&theme=dark&show_icons=true&hide_border=true&layout=compact" height=200 alt=""/>
 
