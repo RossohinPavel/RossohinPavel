@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hello there, I,m Pavel 😽</h1>
+    <h1>Hello there, I'm Pavel 😽</h1>
     <h3>Python Backend/Fullstack Developer</h3>
 </div>
 
