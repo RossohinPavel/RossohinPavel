@@ -11,7 +11,7 @@
 
 ## About me
 
-- Developer from Kirov🥶
+- Developer from Kirov <img src="src/pngwing.com (2).png" title="python" width=30 height="30"/>
 - 🫵 Check repo. There you'll find my own projects.
 - How about coding to 🤘metal🤘? Check out my <a href="https://m.vk.com/morti_ruins"> group</a> and <a href="https://youtube.com/playlist?list=PLa6c78cXfD0gLM_EB9p21WtJb-Irqr6eX&si=B0WqQLJz5dIIPjCn">albums</a>.
 
