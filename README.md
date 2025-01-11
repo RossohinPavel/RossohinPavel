@@ -11,7 +11,7 @@
 
 ## About me
 
-- Developer from Kirov <img src="src/pngwing.com (2).png" title="python" width=30 height="30"/>
+- Developer from Kirov <img src="src/pngwing.com (2).png" title="Kirov" width=30 height="30"/>
 - 🫵 Check repo. There you'll find my own projects.
 - How about coding to 🤘metal🤘? Check out my <a href="https://m.vk.com/morti_ruins"> group</a> and <a href="https://youtube.com/playlist?list=PLa6c78cXfD0gLM_EB9p21WtJb-Irqr6eX&si=B0WqQLJz5dIIPjCn">albums</a>.
 
@@ -34,8 +34,10 @@
 
 **Front-end**
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width=50 height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="JavaScript" width=50 height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="JQuery" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width=50 height="50"/>&nbsp;
@@ -57,5 +59,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=dark" alt=""/>
     <img src="https://github-readme-stats.vercel.app/api?username=RossohinPavel&theme=dark&show_icons=true&hide_border=true&count_private=true" height=190 alt=""/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossohinPavel&theme=dark&show_icons=true&hide_border=true&layout=compact" height=190 alt=""/>
-
 </div>
