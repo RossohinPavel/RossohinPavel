@@ -57,5 +57,5 @@
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=github_dark" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RossohinPavel&theme=github_dark" height=190 alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossohinPavel&theme=dark&show_icons=true&hide_border=true&layout=compact" height=190 alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RossohinPavel&theme=github_dark" height=190 alt=""/>
 </div>
