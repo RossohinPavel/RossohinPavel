@@ -55,7 +55,8 @@
 ## My stat
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=nord_dark" alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api?username=RossohinPavel&show_icons=true&theme=nord" height=190 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossohinPavel&layout=compact&theme=nord" style="height: 190px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RossohinPavel&theme=dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dark" height=190 />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RossohinPavel&theme=dark" height=190 />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RossohinPavel&theme=dark" style="height: 190px" />
 </div>
