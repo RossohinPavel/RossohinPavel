@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hello there, I'm Pavel 😽</h1>
-    <h3>Python Backend/Fullstack Developer</h3>
+    <h3>Typescript Backend/Fullstack Developer</h3>
 </div>
 
 <div id="social" align="center">
@@ -25,8 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" width=50 height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width=50 height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="django" width=50 height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" title="drf" width=50 height="50"/>
 
 **Databases**
 
